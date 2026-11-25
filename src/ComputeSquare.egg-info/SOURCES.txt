@@ -1,0 +1,10 @@
+pyproject.toml
+src/ComputeSquare/__init__.py
+src/ComputeSquare/cli.py
+src/ComputeSquare/square.py
+src/ComputeSquare.egg-info/PKG-INFO
+src/ComputeSquare.egg-info/SOURCES.txt
+src/ComputeSquare.egg-info/dependency_links.txt
+src/ComputeSquare.egg-info/entry_points.txt
+src/ComputeSquare.egg-info/requires.txt
+src/ComputeSquare.egg-info/top_level.txt
